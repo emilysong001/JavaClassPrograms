@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62a16b8d-a60c-4f89-8e73-2b63bfe41a2f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClassPrograms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class02/FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class03/IdentifierExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class04/ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class04/ExpressionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class04/RelationalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class04/VariableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class05/CompoundOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class05/ConditionalAnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class05/Homework3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class05/IncrementDecrementExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class06/ConditionalOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class06/Homework4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class06/Homework5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class06/ScannerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class06/ScannerPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class06/ScannerPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class07/Homework6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class07/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class07/IfStatement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class07/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class08/ElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class08/Homework7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class08/IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class08/IfElseStatement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class08/InterviewQuestions8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class08/NumberOfDaysInEachMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class08/OddOrEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class09/Homework9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class09/NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class09/NestedIfPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class09/ScannerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class09/ScannerPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/com/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/com/java/Vehicle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ITnaEVvUA88bELgqcKb6oe0hBA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/xuanx/OneDrive/Desktop/Java Class/group-project-3-IfStatement",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Homework9">
+    <configuration name="Homework9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class09.Homework9" />
+      <module name="JavaClassPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.class09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class09.NestedIf" />
+      <module name="JavaClassPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.class09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedIfPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class09.NestedIfPractice" />
+      <module name="JavaClassPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.class09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class09.ScannerPractice" />
+      <module name="JavaClassPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.class09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class09.ScannerPractice2" />
+      <module name="JavaClassPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.class09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Homework9" />
+        <item itemvalue="Application.NestedIfPractice" />
+        <item itemvalue="Application.NestedIf" />
+        <item itemvalue="Application.ScannerPractice2" />
+        <item itemvalue="Application.ScannerPractice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62a16b8d-a60c-4f89-8e73-2b63bfe41a2f" name="Changes" comment="" />
+      <created>1670214504489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670214504489</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
