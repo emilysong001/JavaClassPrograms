@@ -1,47 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="62a16b8d-a60c-4f89-8e73-2b63bfe41a2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaClassPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class02/FirstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class03/IdentifierExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class04/ArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class04/ExpressionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class04/RelationalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class04/VariableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class05/CompoundOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class05/ConditionalAnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class05/Homework3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class05/IncrementDecrementExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class06/ConditionalOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class06/Homework4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class06/Homework5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class06/ScannerPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class06/ScannerPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class06/ScannerPractice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class07/Homework6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class07/IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class07/IfStatement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class07/TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class08/ElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class08/Homework7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class08/IfElseStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class08/IfElseStatement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class08/InterviewQuestions8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class08/NumberOfDaysInEachMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class08/OddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class09/Homework9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class09/NestedIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class09/NestedIfPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class09/ScannerPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class09/ScannerPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/com/java/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/com/java/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_82.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_auto_common_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_service_auto_service_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_netty_netty_reactive_streams_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dev_failsafe_failsafe_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_kqueue_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_osx_x86_64_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_logs_1_19_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_common_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_19_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_19_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_semconv_1_19_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_ous_jtoml_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_asynchttpclient_async_http_client_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_asynchttpclient_async_http_client_netty_utils_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v106_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v107_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v108_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_manager_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/c1/Testcase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class09/ScannerPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class10/Homework10_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class10/Homework10_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class10/Homework10_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class10/IfStatementRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class10/IfStatementRecap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class10/NestedRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class11/NestedSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class11/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class11/Switch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/BRRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/ExceptTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/ExceptTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/FileStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/HexReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/StreamTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice2/CoreJavaBrushUp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice2/CoreJavaBrushUp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice2/CoreJavaBrushUp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice2/MethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice2/MethodDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/prac1/LocatorsTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/prac1/LocatorsTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/prac1/LocatorsTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaClassPrograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaClassPrograms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class02/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class02/FirstClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class03/IdentifierExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class03/IdentifierExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class04/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class04/ArithmeticOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class04/ExpressionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class04/ExpressionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class04/RelationalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class04/RelationalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class04/VariableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class04/VariableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class05/CompoundOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class05/CompoundOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class05/ConditionalAnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class05/ConditionalAnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class05/Homework3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class05/Homework3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class05/IncrementDecrementExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class05/IncrementDecrementExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class06/ConditionalOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class06/ConditionalOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class06/Homework4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class06/Homework4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class06/Homework5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class06/Homework5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class06/ScannerPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class06/ScannerPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class06/ScannerPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class06/ScannerPractice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class06/ScannerPractice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class06/ScannerPractice3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class07/Homework6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class07/Homework6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class07/IfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class07/IfStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class07/IfStatement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class07/IfStatement2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class07/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class07/TypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class08/ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/ElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class08/Homework7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/Homework7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class08/IfElseStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/IfElseStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class08/IfElseStatement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/IfElseStatement2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class08/InterviewQuestions8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/InterviewQuestions8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class08/NumberOfDaysInEachMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/NumberOfDaysInEachMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class08/OddOrEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/OddOrEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class09/Homework9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class09/Homework9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class09/NestedIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class09/NestedIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class09/NestedIfPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class09/NestedIfPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class09/ScannerPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class09/ScannerPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class09/ScannerPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class09/ScannerPractice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/com/java/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/com/java/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/com/java/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/com/java/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,21 +169,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/xuanx/OneDrive/Desktop/Java Class/group-project-3-IfStatement",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/xuanx/OneDrive/Desktop/Java Class/group-project-3-IfStatement&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Homework9">
-    <configuration name="Homework9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class09.Homework9" />
+}</component>
+  <component name="RunManager" selected="Application.NestedSwitch">
+    <configuration name="Homework10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class10.Homework10_2" />
       <module name="JavaClassPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class09.*" />
+          <option name="PATTERN" value="com.java.class10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class09.NestedIf" />
+    <configuration name="Homework10_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class10.Homework10_3" />
       <module name="JavaClassPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class09.*" />
+          <option name="PATTERN" value="com.java.class10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedIfPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class09.NestedIfPractice" />
+    <configuration name="NestedSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class11.NestedSwitch" />
       <module name="JavaClassPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class09.*" />
+          <option name="PATTERN" value="com.java.class11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class09.ScannerPractice" />
+    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class11.Practice1" />
       <module name="JavaClassPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class09.*" />
+          <option name="PATTERN" value="com.java.class11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class09.ScannerPractice2" />
+    <configuration name="Switch1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class11.Switch1" />
       <module name="JavaClassPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class09.*" />
+          <option name="PATTERN" value="com.java.class11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework9" />
-        <item itemvalue="Application.NestedIfPractice" />
-        <item itemvalue="Application.NestedIf" />
-        <item itemvalue="Application.ScannerPractice2" />
-        <item itemvalue="Application.ScannerPractice" />
+        <item itemvalue="Application.NestedSwitch" />
+        <item itemvalue="Application.Practice1" />
+        <item itemvalue="Application.Switch1" />
+        <item itemvalue="Application.Homework10_3" />
+        <item itemvalue="Application.Homework10_2" />
       </list>
     </recent_temporary>
   </component>

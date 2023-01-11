@@ -17,10 +17,11 @@ public class ScannerPractice {
         char gender = input.next().charAt(0);
         System.out.println(gender);
 
-        String gender1 = input.next();
-        char genderInCharDataType = gender1.charAt(0);
+        //String gender1 = input.next();
+        //char genderInCharDataType = gender1.charAt(0);
         //String has some methods, like charAt(), equals(),equalsIgnoreCase(), Substring()
-        System.out.println(genderInCharDataType);
+        //System.out.println(genderInCharDataType);
+        String b1 = input.next();
 
         String a = input.nextLine();
         System.out.println(a);
