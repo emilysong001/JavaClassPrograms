@@ -4,144 +4,123 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62a16b8d-a60c-4f89-8e73-2b63bfe41a2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_82.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_auto_common_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_service_auto_service_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_netty_netty_reactive_streams_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dev_failsafe_failsafe_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_84_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_84_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_84_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_60_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_84_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_84_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_60_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_84_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_84_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_84_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_kqueue_4_1_84_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_84_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_60_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_4_1_84_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_osx_x86_64_4_1_60_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_84_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_logs_1_19_0_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_common_1_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_19_0_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_19_0_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_semconv_1_19_0_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_ous_jtoml_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_asynchttpclient_async_http_client_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_asynchttpclient_async_http_client_netty_utils_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v106_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v107_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v108_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_manager_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/c1/Testcase1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class09/ScannerPractice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class10/Homework10_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class10/Homework10_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class10/Homework10_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class10/IfStatementRecap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class10/IfStatementRecap2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class10/NestedRecap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class11/NestedSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class11/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class11/Switch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/BRRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/ExceptTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/ExceptTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/FileStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/HexReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice1/StreamTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice2/CoreJavaBrushUp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice2/CoreJavaBrushUp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice2/CoreJavaBrushUp3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice2/MethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice2/MethodDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/prac1/LocatorsTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/prac1/LocatorsTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/prac1/LocatorsTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="62a16b8d-a60c-4f89-8e73-2b63bfe41a2f" name="Changes" comment="40 Map practices">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/c1/SeleniumPre1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class25/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/class34/homework/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/exception/Bunny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/exception/CanNotHopException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/exception/Hopper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/exception/NoMoreCarrotsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/jdbc/JDBCExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/jdbc/JDBCHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/jdbc/Testwee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/jdbc/mySqlConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice3/Calculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice3/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice3/SwapTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/studentmentoring/StringBuilderMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/studentmentoring/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/studentmentoring/StringPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter1/Chick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter1/Egg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter1/Swan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter1/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter4/FinalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter4/PassByData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter4/ReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter4/StringBuilders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter4/chimp/Chimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter4/city/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter4/rope/Rope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter4/rope/RopeSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter4/school/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/ElephantSeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/Kangaroo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/Marsupial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/Rodent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/Shark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/polymophism/HasTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/polymophism/Lemur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter5/polymophism/Primate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter6/DoSomething.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter6/ExceptionTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter6/ExceptionTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter6/ExceptionTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter6/ExceptionTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter6/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter6/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter6/MultiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/chapter6/ThrowError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/pond/duck/GooseWatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/pond/goose/Goose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/pond/goose/Gosling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/pond/inland/BirdWatcherFromAfar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/pond/shore/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/pond/shore/BirdWatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocaexam/pond/swan/Swan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/dropdown/StaticDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/prac2/DataPointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/prac2/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/testdata/HashMapTestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/ListPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/StringPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/StringPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/Varargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/collections/ArrayListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/collections/ArrayListUdemy314.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/collections/CollectionUdemy322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/collections/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/collections/HashSetUdemy317.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/ikm/CollectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/ikm/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/ikm/InvoiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/ikm/MathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/ikm/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/ikm/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/java8/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/java8/DateTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/java8/ForEachExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/java8/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/java8/stream/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/java8/stream/personTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/leetcode/RectangleArea223.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/recursion/Recursion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/statictest/Koala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/statictest/KoalaTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selflearning/statictest/Pairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/testng/Day1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_82.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_6_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaClassPrograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaClassPrograms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class02/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class02/FirstClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class03/IdentifierExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class03/IdentifierExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class04/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class04/ArithmeticOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class04/ExpressionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class04/ExpressionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class04/RelationalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class04/RelationalOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class04/VariableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class04/VariableExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class05/CompoundOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class05/CompoundOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class05/ConditionalAnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class05/ConditionalAnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class05/Homework3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class05/Homework3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class05/IncrementDecrementExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class05/IncrementDecrementExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class06/ConditionalOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class06/ConditionalOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class06/Homework4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class06/Homework4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class06/Homework5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class06/Homework5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class06/ScannerPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class06/ScannerPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class06/ScannerPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class06/ScannerPractice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class06/ScannerPractice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class06/ScannerPractice3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class07/Homework6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class07/Homework6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class07/IfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class07/IfStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class07/IfStatement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class07/IfStatement2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class07/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class07/TypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class08/ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/ElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class08/Homework7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/Homework7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class08/IfElseStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/IfElseStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class08/IfElseStatement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/IfElseStatement2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class08/InterviewQuestions8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/InterviewQuestions8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class08/NumberOfDaysInEachMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/NumberOfDaysInEachMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class08/OddOrEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class08/OddOrEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class09/Homework9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class09/Homework9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class09/NestedIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class09/NestedIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class09/NestedIfPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class09/NestedIfPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class09/ScannerPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class09/ScannerPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class09/ScannerPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/class09/ScannerPractice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/com/java/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/com/java/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/com/java/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/com/java/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/com/java/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice3/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/com/java/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/selfpractice3/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/prac1/LocatorsTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/prac1/LocatorsTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/prac1/LocatorsTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/prac1/LocatorsTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/com/java/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/com/java/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/prac1/LocatorsTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/selenium/prac1/LocatorsTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/prac1/LocatorsTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/selenium/prac1/LocatorsTest2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +130,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -174,7 +154,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/xuanx/OneDrive/Desktop/Java Class/group-project-3-IfStatement&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/xuanx/mysql-connector-java-8.0.30.jar&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -182,13 +163,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NestedSwitch">
-    <configuration name="Homework10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class10.Homework10_2" />
+  <component name="RunManager" selected="Application.personTest">
+    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class17.Homework" />
       <module name="JavaClassPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class10.*" />
+          <option name="PATTERN" value="com.java.class17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework10_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class10.Homework10_3" />
+    <configuration name="Homework40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class40.Homework40" />
       <module name="JavaClassPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class10.*" />
+          <option name="PATTERN" value="com.java.class40.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class11.NestedSwitch" />
+    <configuration name="MapPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class40.MapPractice" />
       <module name="JavaClassPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class11.*" />
+          <option name="PATTERN" value="com.java.class40.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class11.Practice1" />
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class16.MultiplicationTable" />
       <module name="JavaClassPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class11.*" />
+          <option name="PATTERN" value="com.java.class16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class11.Switch1" />
+    <configuration name="personTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selflearning.java8.stream.personTest" />
       <module name="JavaClassPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class11.*" />
+          <option name="PATTERN" value="com.selflearning.java8.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NestedSwitch" />
-        <item itemvalue="Application.Practice1" />
-        <item itemvalue="Application.Switch1" />
-        <item itemvalue="Application.Homework10_3" />
-        <item itemvalue="Application.Homework10_2" />
+        <item itemvalue="Application.personTest" />
+        <item itemvalue="Application.Homework" />
+        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.MapPractice" />
+        <item itemvalue="Application.Homework40" />
       </list>
     </recent_temporary>
   </component>
@@ -267,6 +248,203 @@
       <option name="presentableId" value="Default" />
       <updated>1670214504489</updated>
     </task>
+    <task id="LOCAL-00001" summary="website practices">
+      <created>1673895203034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673895203034</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Class 12 practices">
+      <created>1673896057264</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673896057264</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Class 11 practices">
+      <created>1673896122144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673896122144</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Class 13 practices - methods">
+      <created>1674441687720</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674441687720</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Class 14 practices - Strings">
+      <created>1674499599280</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674499599280</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Class 15 practices - Strings (2)">
+      <created>1674528145809</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674528145809</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Class 16 practices - Loop">
+      <created>1674699752097</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674699752097</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Class 17 practices - While Loop (2)">
+      <created>1675044897961</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675044897962</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Class 18 practices - While/For Loop (3)">
+      <created>1675304142155</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675304142155</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Class 19 practices - While/For Loop (4)">
+      <created>1675649881757</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675649881758</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Class 20 practices - While/For Loop (5)">
+      <created>1675892877299</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675892877299</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Class 21 practices - Nested For Loop">
+      <created>1676334616239</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676334616239</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Class 22 practices - Array">
+      <created>1676334910122</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676334910122</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Class 23 practices - 2D Array">
+      <created>1677002503998</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1677002503998</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Class 24 practices - 2D Array practice 2">
+      <created>1677550716148</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677550716148</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Class 26 practices - objects and class">
+      <created>1678417924891</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678417924891</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Class 27 practices - static">
+      <created>1678817840468</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678817840468</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Class 27 practices - static">
+      <created>1678817893513</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1678817893513</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Class 28 practices - class/object">
+      <created>1679346302564</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679346302564</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Class 29 practices - constucture">
+      <created>1679533344826</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1679533344826</updated>
+    </task>
+    <task id="LOCAL-00021" summary="30 &amp; 31 practices">
+      <created>1681333949826</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1681333949827</updated>
+    </task>
+    <task id="LOCAL-00022" summary="32 &amp; 33 Abstract practices">
+      <created>1681412523745</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1681412523745</updated>
+    </task>
+    <task id="LOCAL-00023" summary="34 Interface practices">
+      <created>1681953919812</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1681953919812</updated>
+    </task>
+    <task id="LOCAL-00024" summary="35 Enum practices">
+      <created>1682299672557</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1682299672557</updated>
+    </task>
+    <task id="LOCAL-00025" summary="36&amp;37 Exception practices">
+      <created>1682299705736</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1682299705736</updated>
+    </task>
+    <task id="LOCAL-00026" summary="38 Array Set List practices">
+      <created>1682563186224</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1682563186224</updated>
+    </task>
+    <task id="LOCAL-00027" summary="39 Map practices">
+      <created>1682563211411</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1682563211411</updated>
+    </task>
+    <task id="LOCAL-00028" summary="40 Map practices">
+      <created>1682647144877</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1682647144877</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,10 +452,80 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="emily" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="emily" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Class 11 practices" />
+    <MESSAGE value="Class 13 practices - methods" />
+    <MESSAGE value="Class 14 practices - Strings" />
+    <MESSAGE value="Class 15 practices - Strings (2)" />
+    <MESSAGE value="Class 16 practices - Loop" />
+    <MESSAGE value="Class 17 practices - While Loop (2)" />
+    <MESSAGE value="Class 18 practices - While/For Loop (3)" />
+    <MESSAGE value="Class 19 practices - While/For Loop (4)" />
+    <MESSAGE value="Class 20 practices - While/For Loop (5)" />
+    <MESSAGE value="Class 21 practices - Nested For Loop" />
+    <MESSAGE value="Class 22 practices - Array" />
+    <MESSAGE value="Class 23 practices - 2D Array" />
+    <MESSAGE value="Class 24 practices - 2D Array practice 2" />
+    <MESSAGE value="Class 26 practices - objects and class" />
+    <MESSAGE value="Class 27 practices - static" />
+    <MESSAGE value="Class 28 practices - class/object" />
+    <MESSAGE value="Class 29 practices - constucture" />
+    <MESSAGE value="30 &amp; 31 practices" />
+    <MESSAGE value="32 &amp; 33 Abstract practices" />
+    <MESSAGE value="34 Interface practices" />
+    <MESSAGE value="35 Enum practices" />
+    <MESSAGE value="36&amp;37 Exception practices" />
+    <MESSAGE value="38 Array Set List practices" />
+    <MESSAGE value="39 Map practices" />
+    <MESSAGE value="40 Map practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="40 Map practices" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.time.format.DateTimeParseException" package="java.time.format" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

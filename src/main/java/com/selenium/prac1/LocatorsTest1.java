@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 
 public class LocatorsTest1 {
-    public static void main(String[] args) {
+    public static String main(String[] args) {
         //SeleniumManager off (Beta phase) not stable
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\xuanx\\Documents\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
@@ -25,5 +25,12 @@ public class LocatorsTest1 {
         //driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         driver.findElement(By.className("fs-mask-username")).sendKeys("emily");
 
+        driver.findElement(By.className("fs-mask-username")).getText();
+        String userNameText = driver.findElement(By.className("fs-mask-username")).getText();
+        String[] userNameArray = userNameText.split("'");
+        //String[] userName = userNameArray[0].split("'");
+        //String userName1 = userName[0];
+        String userName = userNameArray[0].split("'")[0];
+        return userName;
     }
 }
