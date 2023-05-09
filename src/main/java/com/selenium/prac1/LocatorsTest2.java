@@ -7,12 +7,13 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 
 public class LocatorsTest2 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\xuanx\\Documents\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.indeed.com/");
 
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+        Thread.sleep(1000);//1 second
         System.out.println(driver.getTitle());
         System.out.println(driver.getCurrentUrl());
         driver.findElement(By.id("text-input-what")).sendKeys("SDET");
@@ -25,6 +26,9 @@ public class LocatorsTest2 {
 
 
         //driver.findElement(By.name("login")).click();
+        //when use explicit wait Thread.sleep(1000); //unstable //class 40
+        //when use implicit wait
+
 
     }
 }
